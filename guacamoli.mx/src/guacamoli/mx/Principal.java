@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("¡Bienvenido a Guacamoli!");
 		System.out.println("Hola a todos");
+		System.out.println("¡Bienvenido a Guacamoli x2!");
 	}
 
 }
